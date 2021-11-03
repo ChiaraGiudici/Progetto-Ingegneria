@@ -4,6 +4,7 @@ public class Elettore {
 	private String nome, cognome;
 	private String docIdent;
 	private String tessElett;
+
 	public String getNome() {
 		return nome;
 	}

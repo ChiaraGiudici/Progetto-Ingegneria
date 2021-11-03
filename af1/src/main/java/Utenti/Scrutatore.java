@@ -3,6 +3,7 @@ package Utenti;
 public class Scrutatore {
 	private String nome, cognome;
 	private String docIdent;
+
 	public String getNome() {
 		return nome;
 	}
